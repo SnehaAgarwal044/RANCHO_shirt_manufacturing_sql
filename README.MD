@@ -17,7 +17,8 @@ This project includes:
 
 The following Entity Relationship Diagram (ERD) illustrates the relationships among all tables in the factory database:
 
-![ER Diagram](./erd/RANCHO_ERD.png)
+![ERD Diagram](erd/RANCHO_ERD.png)
+
 
 ---
 
