@@ -36,13 +36,6 @@ The project uses the following schema:
 | `WORKERS`         | Worker details including department         |
 | `SALARY_PAYMENTS` | Salary payments made to workers             |
 | `EXPENSES`        | Factory overheads (maintenance, transport)  |
----
-
-## 📊 ERD (Entity Relationship Diagram)
-
-The diagram below outlines the relationships among all tables.
-
-RANCHO_ERD.png
 
 ---
 
