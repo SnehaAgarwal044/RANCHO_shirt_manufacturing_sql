@@ -12,14 +12,6 @@ This project includes:
 - 📈 Business Intelligence Queries
 
 ---
-
-## 🧩 ER Diagram
-
-The following Entity Relationship Diagram (ERD) illustrates the relationships among all tables in the factory database:
-
-![ERD Diagram](erd/RANCHO_ERD.png)
-
-
 ---
 
 ## 🗃️ Database Schema
