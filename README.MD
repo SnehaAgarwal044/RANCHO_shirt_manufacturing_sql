@@ -42,7 +42,7 @@ The project uses the following schema:
 
 The diagram below outlines the relationships among all tables.
 
-![ERD](erd/RANCHO_ERD.png)
+RANCHO_ERD.png
 
 ---
 
